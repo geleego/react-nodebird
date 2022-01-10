@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import React from 'react';
 import { Menu, Input, Button } from 'antd';
 
 const AppLayout = ({ children }) => {
